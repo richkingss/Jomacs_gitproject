@@ -3,4 +3,3 @@ The following are the working areas in the Local fit repo.
 2. Staging area
 3. commit area
 
-Lets now learn about remote repros
