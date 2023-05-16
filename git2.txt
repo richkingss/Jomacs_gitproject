@@ -1,0 +1,5 @@
+The following are the working areas in the Local fit repo.
+1. Wirking area
+2. Staging area
+3. commit area
+
